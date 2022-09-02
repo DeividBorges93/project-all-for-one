@@ -1,13 +1,10 @@
 
 # Boas vindas ao repositório do projeto All For One
 
-<details>
   <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
 Um projeto com o codinome *All For One* em que pratiquei todos os conceitos de SQL ensinados até aqui. Foi ousado o bando de dados `Northwind`. As instruções de como restaurar o banco podem ser lidas a seguir.
-</details>
 
-<details>
 Temos, nesse projeto, uma série de desafios com diferentes níveis de complexidade que devem ser resolvidos cada um em seu arquivo próprio.
 
 Criei na raiz do projeto um arquivo chamado desafioN.sql, em que N é o número do desafio;
