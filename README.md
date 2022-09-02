@@ -216,6 +216,6 @@ Montei queries para encontrar as informações esperadas pelos desafios:
 ## Novas habilidades adquiridas através do projeto
 
 - Criar qualquer tipo de solicitação para o back-end através das query SQL.
--- SELECT
--- filtragem de dados
--- manipulação de tabelas
+- SELECT
+- filtragem de dados
+- manipulação de tabelas
